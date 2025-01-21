@@ -4,8 +4,8 @@ stop("Stopping the script execution.")
 # Authors - Hadeesha Piyadasa, Benjamin Oberlton
 
 # Enter your main directory here after downloading all the required files from https://bruce.parkerici.org/pages/raw-data-access.html
-base_dir <- "/Users/piyadasa/Library/CloudStorage/GoogleDrive-piyadasa@stanford.edu/Shared drives/BRUCE_data/resource_paper_drafts/Nature_medicine_submission/Files"
-output_dir <- "/Users/piyadasa/Library/CloudStorage/GoogleDrive-piyadasa@stanford.edu/Shared drives/BRUCE_data/resource_paper_drafts/Nature_medicine_submission/Output"
+base_dir <- "your_path/Files"
+output_dir <- "your_path/Output"
 
 
 ###### Figure generation notebook #######
